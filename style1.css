@@ -9,6 +9,9 @@ body{
     font-weight: 700;
    
 }
+.HeiS{
+    height: 526px !important;
+}
 .trans{
     width: 48px;
     height: 30px;
@@ -745,3 +748,11 @@ background: rgba(55,55,63,0.3);
 /* .psac-slider-and-carousel .owl-dots .owl-dot.active {
     background: #ed8012;
   } */
+  .footer{
+    font-size: 16px;
+    color: #b2b2b8;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 80px;
+    text-align: center !important;
+  }
